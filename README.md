@@ -5,3 +5,4 @@ penguin
 horse
 elephant
 tiger
+Lion
